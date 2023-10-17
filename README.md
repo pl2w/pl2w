@@ -1,1 +1,1 @@
-https://github.com/pl2w/pl2w/assets/137610832/854426a0-dc12-4f69-b997-2ab43c2232f6
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
